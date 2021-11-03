@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Simple react app that uses a 3rd party api to pull questions.  You can click on any answer and it'll tell you if it's correct or not. Also there is an animation 
 Don't Know? button which will swing the card around showing you the answer and you can click that answer to swing back.
 
-Many updates coming like saving attempts at questions, etc.
+Some updates/upgrades coming like saving attempts at questions, etc.
 
 ## Available Scripts
 
