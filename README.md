@@ -1,12 +1,19 @@
-# Getting Started with Create React App
+# Trivia
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple react app that uses a 3rd party api to pull questions.  You can click on any answer and it'll tell you if it's correct or not. Also there is an animation 
+Don't Know? button which will swing the card around showing you the answer and you can click that answer to swing back.
+
+Many updates coming like saving attempts at questions, etc.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+## View live example 
+[https://trivia-e1bde.web.app/](https://trivia-e1bde.web.app/)
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +21,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `npm build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
